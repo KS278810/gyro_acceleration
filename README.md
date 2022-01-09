@@ -1,0 +1,2 @@
+# gyro_acceleration
+スマホのジャイロを使って加速度を計測する
